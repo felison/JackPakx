@@ -1,0 +1,10 @@
+Package: JackPakx
+Version: 0.1
+Section: misc
+Priority: extra
+Architecture: all
+Depends: 
+Installed-Size: 3000
+Maintainer: Fred de Borst <felison@gmx.net>
+Homepage: www.jacklinx.nl
+Description: Content package for the JackLinx platform. 
